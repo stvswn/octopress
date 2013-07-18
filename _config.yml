@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://localhost:4000
+url: http://steveswan.herokuapp.com
 title: Faking at Tech
 subtitle: A blog by Steve Swan
 author: Steve Swan
