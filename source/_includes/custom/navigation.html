@@ -2,5 +2,6 @@
     {% for link in site.navigation %}
         <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url }}">{{ link.text }}</a></li>
     {% endfor %}
-	<li><a href="{{ root_url }}">Home</a></li>
+	<li><a href="{{ site.root }}">Home</a></li>
+	<li><a href ="/about/index.html">About Me</a></li>
 </ul>
