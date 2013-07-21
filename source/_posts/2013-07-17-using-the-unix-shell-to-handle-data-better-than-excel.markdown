@@ -3,7 +3,7 @@ layout: post
 title: "Fun with Data: the Unix utilities"
 date: 2013-07-17 18:45
 comments: true
-categories: 
+categories: Data
 ---
 Recently in my internship I needed to analyze thousands of results from our Apache Solr server.  Our app has buttons that allow users to see results from our database of events by category, and when a user selects a category a search query is executed.  I was trying to optimize those search queries to get the best results for the user.
 
